@@ -24,3 +24,9 @@ pip install streamlit
 pip install openai
 pip install duckduckgo-search
 ```
+
+And make sure you have a .env file in the root folder with the OPENAI_API_KEY system variable, like e.g:
+
+```
+OPENAI_API_KEY=<key>
+```
